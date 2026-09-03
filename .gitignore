@@ -1,0 +1,16 @@
+.local/
+.settings/
+.objects/
+.entities/
+.storage/
+.tmh/
+*.nupkg
+Output/
+*.log
+Exception_Screenshots/
+Desktop.ini
+Thumbs.db
+**/.DS_Store
+*.swp
+*.bak
+*.tmp
